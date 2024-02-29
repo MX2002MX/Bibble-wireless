@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220361169145",
+    "project_id": "snerky-4b62f",
+    "storage_bucket": "snerky-4b62f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220361169145:android:290fbac0ad22379c3dea28",
+        "android_client_info": {
+          "package_name": "com.example.snerky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbDStgMfMk7_KL7bQ0qyDdXb8dKQrK-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
